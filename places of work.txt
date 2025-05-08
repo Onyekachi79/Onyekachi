@@ -1,0 +1,8 @@
+1. spdc
+2. glo
+3. ace
+4. natcom
+5. wiocc
+6. google
+7. aws
+8. meta
