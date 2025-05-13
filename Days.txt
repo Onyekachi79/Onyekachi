@@ -6,3 +6,4 @@ Friday
 Saturday
 Sunday
 End
+ok
